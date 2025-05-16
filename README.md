@@ -5,18 +5,40 @@
 
 # Hi there! I'm Rania Ramadan Gad👋
 
-I'm a Computer Science graduate from Damanhur University, passionate about Artificial Intelligence, Machine Learning, and Software Development. I enjoy working on innovative projects and continuously learning new technologies.
+Highly motivated Computer Science graduate from Damanhur University with a solid academic background and practical experience in software development and machine learning.  
+Currently enrolled in the Artificial Intelligence Professional Track at the Information Technology Institute (ITI).  
+Co-author of two research papers published by IEEE and ITC-Egypt.  
+
+Skilled in machine learning, computer vision, and web development, with a passion for building real-world AI solutions and continuously advancing technical expertise.  
+Possesses strong problem-solving abilities, excellent teamwork and collaboration skills, effective communication, adaptability to new technologies, critical thinking, and time management.
 
 ---
 
-## Technical Skills
-- Python (including libraries like MLflow, TensorFlow, scikit-learn)
-- Machine Learning & Deep Learning
-- Data Analysis & Visualization (Pandas, Matplotlib, Seaborn, Power bi, Plotly)
-- Web Development (React, HTML, CSS, JavaScript)
-- DevOps & MLOps tools (Conda, Docker, MLflow)
+## Programming Skills
+
+### Languages
+- Python, C, C++, SQL, NoSQL
+
+### Data Visualization
+- Matplotlib, Seaborn, Plotly, Dash, MS PowerBI, Streamlit
+
+### Concepts
+- NLP, Time Series & Forecasting, Computer Vision  
+- Recommendation Systems, Generative AI (GANs), LLMs, Transformers
+
+### Machine Learning & Deep Learning
+- Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch  
+- OpenCV, NLTK, Surprise, LibRecommender, Tnkeeh, spaCy
+
+### Big Data
+- Apache Spark, Hadoop, Kafka, Hive
+
+### Others
+- Agile (Trello), Git, GitHub, Linux, AWS  
+- Web Scraping (Selenium), MongoDB, RPA (UiPath)
 
 ---
+
 
 
 ## Get in Touch
