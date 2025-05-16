@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Rania%20Ramadan%20Gad%20-nl-AI%20Engineer&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=299&color=gradient&text=Hello,%20I'm%20Rania%20Ramadan%20Gad%20-nl-AI%20Engineer&textBg=false&fontAlign=65&fontAlignY=48&animation=blink" />
+
 
 # Hi there! I'm Rania Ramadan 👋
 
@@ -17,7 +18,7 @@ I'm a Computer Science graduate from Damanhur University, passionate about Artif
 
 
 ## Get in Touch
-- [LinkedIn]([https://www.linkedin.com/in/rania-ramadan](https://www.linkedin.com/in/rania-gad/))  
+- [LinkedIn]([https://www.linkedin.com/in/rania-ramadan](https://www.linkedin.com/in/rania-gad/)
 - Email: raniaramadangad20@gmail.com
 
 ---
