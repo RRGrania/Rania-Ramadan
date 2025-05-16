@@ -20,7 +20,7 @@ I'm a Computer Science graduate from Damanhur University, passionate about Artif
 
 
 ## Get in Touch
-- [LinkedIn]([https://www.linkedin.com/in/rania-ramadan](https://www.linkedin.com/in/rania-gad/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rania-gad/)
 - Email: raniaramadangad20@gmail.com
 
 ---
