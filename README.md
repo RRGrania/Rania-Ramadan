@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=299&color=gradient&text=Hello,%20I'm%20Rania%20Ramadan-nl-AI%20Engineer&textBg=false&fontAlign=50&fontAlignY=49&animation=blink" />
 
 
+> **وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنتُمْ تَعْمَلُونَ**  
+
 # Hi there! I'm Rania Ramadan Gad👋
 
 I'm a Computer Science graduate from Damanhur University, passionate about Artificial Intelligence, Machine Learning, and Software Development. I enjoy working on innovative projects and continuously learning new technologies.
